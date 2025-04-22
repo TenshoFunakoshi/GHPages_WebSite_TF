@@ -3,9 +3,24 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
+# プロフィール
+
+**名前：船越 天翔**
+
+**所属：近畿大学国際学部国際学科**
+
+**出身**
+京都府亀岡市
+
+**好きなこと**
+   1. 野球観戦
+   1. 東海オンエア（YouTuber）
+   2. Tom & Jerry
+![image](/GHPages_WebSite_TF/assets/images/logo_main.png)
+   4. 
 
 
-こんばんは
+
 
 
 
