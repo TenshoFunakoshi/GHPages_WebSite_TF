@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "自己紹介"
 author: default
 permalink: /
 ---
@@ -18,7 +18,7 @@ permalink: /
    1. 東海オンエア（YouTuber）
    2. Tom & Jerry
       
-![image](/assets/images/logo_main.png)
+![image](/GHPages_WebSite_TF/assets/images/logo_main.png)
 
 
 
