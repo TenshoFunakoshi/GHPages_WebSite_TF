@@ -14,10 +14,13 @@ permalink: /
 
 **好きなこと**
    1. 野球観戦
+[リンク](https://hanshintigers.jp/)
    1. 東海オンエア（YouTuber）
    2. Tom & Jerry
-![image](/GHPages_WebSite_TF/assets/images/logo_main.png)
-   4. 
+      
+![image](/assets/images/logo_main.png)
+
+
 
 
 
